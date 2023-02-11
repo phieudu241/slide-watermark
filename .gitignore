@@ -1,0 +1,9 @@
+venv
+slides
+watermark
+
+# IDEs
+.idea
+
+# License files
+*.lic
